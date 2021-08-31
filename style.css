@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100%;
+    margin: 0px auto 0px;
+    color: white;
+    background: #9e87f1;
+    text-align: center;
+    border: 1px solid #b0c4de;
+    border-bottom: none;
+    border-radius: 0px 0px 0px 0px;
+    padding: 20px;
+}
+
+
+.login{
+    width: 95%;
+    text-align: right;
+    font-size: 20px;
+    color: black;
+}
+
+.btn{
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: #696cff;
+    border: none;
+    border-radius: 5px;
+}
+
+.rebtn{
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: #fc0101;
+    border: none;
+    border-radius: 5px;
+}
+
+.regis{
+    width: 95%;
+    color: rgb(0, 0, 0);
+    text-align: right;
+}
+
+.banner{
+    text-align: left;
+}
+
+.register{
+    width: 30%;
+    margin: 100px auto 0px;
+    color: rgb(0, 0, 0);
+    background: #00f7ff;
+    text-align: center;
+    border: 1px solid #b0c4de;
+    border-bottom: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+}
+
+.content{
+    text-align: center;
+    width: 30%;
+    margin: 0% auto;
+    padding: 20px;
+    border: 1px solid #b0c4de;
+    background: white;
+    border-radius: 0px 0px 10 px 10px;
+}
+
+.input-group{
+    margin: 10px 0px 10px 0px;
+}
+
+.input-group label{
+    display: block;
+    text-align: center;
+    margin: 3px;
+}
+
+.input-group input{
+    height: 30px;
+    width: 50%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
