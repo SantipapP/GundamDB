@@ -18,7 +18,7 @@
                 <button type="submit" name="login" class="btn">ลงชื่อเข้าใช้</button>
             </div>
             <div class="regis">
-                <p>ยังไม่ได้เป็นสมาชิก : <a href="register.php">สมัครสมาชิก</a></p>
+                <p>ยังไม่ได้เป็นสมาชิกนะ : <a href="register.php">สมัครสมาชิก</a></p>
             </div>
         </form>
     </div>
